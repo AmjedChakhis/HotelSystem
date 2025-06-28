@@ -66,7 +66,7 @@ The system follows an architecture with three main entities:
 
 2. **Run the application**
    ```bash
-   java Service
+   java App
    ```
 
 ### Option 2: IDE Execution
