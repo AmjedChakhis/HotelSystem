@@ -75,27 +75,6 @@ The system follows an architecture with three main entities:
 2. **Open** `Service.java`
 3. **Run** the main method
 
-```
-=== RUNNING TEST CASE ===
-
-Room 1 created successfully
-Room 2 created successfully
-Room 3 created successfully
-User 1 created with balance 5000
-User 2 created with balance 10000
-
-Booking failed: Insufficient balance. Required: 14000, Available: 5000
-Booking failed: Invalid dates: Check-in must be before check-out
-Booking successful
-Booking failed: Room is not available for the specified period
-Booking successful
-Room 1 updated successfully
-
-=== ROOMS (Latest to Oldest) ===
-...
-
-=== WELCOME TO INTERACTIVE HOTEL RESERVATION SYSTEM ===
-```
 
 ## 💡 Usage Examples
 
